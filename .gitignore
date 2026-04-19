@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data and Models
+# 如果資料集太大，建議排除
+# sign_dataset/
+*.npy
+# sign_model.pth
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

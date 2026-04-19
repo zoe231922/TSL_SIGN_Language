@@ -1,0 +1,25 @@
+{
+    "classes": [
+        "一",
+        "一定",
+        "七",
+        "三",
+        "中",
+        "九",
+        "二",
+        "五",
+        "人",
+        "他",
+        "八",
+        "六",
+        "十",
+        "可以",
+        "四",
+        "心"
+    ],
+    "input_size": 126,
+    "hidden_size": 128,
+    "num_layers": 2,
+    "seq_len": 30,
+    "description": "126-dimensional features: Hands only (42 points x 3 axes)"
+}
